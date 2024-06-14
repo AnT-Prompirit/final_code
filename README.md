@@ -1,4 +1,4 @@
-# Prompirit final code
+# Prompirit's Final Pipeline Code
 
 [Text Emotion Recognition Model](https://drive.google.com/file/d/1VElYIHTkmBXML0YasoBnzPx0I6mKLpS0/view?usp=drive_link)
 
