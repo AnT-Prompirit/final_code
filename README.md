@@ -1,11 +1,14 @@
 # Prompirit's Final Pipeline Code
 
+## 최종 코드 실행 방법
 **Pipeline_DEMO.ipynb : 최종 데모 코드**
 
+- 데모코드 안 "0ver2_SOTA_ED_model_comp_0.8973.pt"는 아래 링크로 다운받을 수 있음.
 
-데모코드 안 0ver2_SOTA_ED_model_comp_0.8973.pt는 아래 링크로 다운받을 수 있음.
+    [Text Emotion Recognition Model](https://drive.google.com/file/d/1VElYIHTkmBXML0YasoBnzPx0I6mKLpS0/view?usp=drive_link) : pretrained model 다운받기
+- RAG 데이터베이스 연결을 위한 "styleDB" 폴더는 "styleDB.zip" 을 압축해제 하여 사용
 
-[Text Emotion Recognition Model](https://drive.google.com/file/d/1VElYIHTkmBXML0YasoBnzPx0I6mKLpS0/view?usp=drive_link) : pretrained model 다운받기
+## Pipeline
 
 ![pipeline](https://github.com/AnT-Prompirit/prompirit_final_code/assets/77625287/5b7cc62c-4bdd-4417-b473-af2d2c175a63)
 
