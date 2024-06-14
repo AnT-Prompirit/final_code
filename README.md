@@ -20,3 +20,7 @@
 
 4. Append Style Modifiers
     - 추출한 감정과 관련된 스타일 키워드를 자동으로 추가한다.
+      
+<img width="1731" alt="KakaoTalk_20240614_231354646" src="https://github.com/AnT-Prompirit/prompirit_final_code/assets/77625287/ee585012-6cad-41c6-8f69-73b236dbe5fd">
+
+이후 진행된 Evaluation 과정을 통해 위와 같은 Prompirit의 파이프라인을 통해 생성된 이미지는 감정 표현력, 맥락 일치도, 시각적 만족도 측면에서 기존의 다른 프롬프트 엔지니어링 방식으로 생성된 이미지에 비해 가장 선호되는 것으로 나타났다. 
