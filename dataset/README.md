@@ -1,4 +1,4 @@
-## Data Set
+## Dataset
 
 감정 레이블: anger, disgust, fear, sadness, contentment, excitement, awe, amusement
 
