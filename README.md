@@ -2,6 +2,8 @@
 
 [Text Emotion Recognition Model](https://drive.google.com/file/d/1VElYIHTkmBXML0YasoBnzPx0I6mKLpS0/view?usp=drive_link) : pretrained model 다운받기
 
+Pipeline_DEMO.ipynb : 최종 데모 코드
+
 ![pipeline](https://github.com/AnT-Prompirit/prompirit_final_code/assets/77625287/5b7cc62c-4bdd-4417-b473-af2d2c175a63)
 
 #### (A) Preprocess
