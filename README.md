@@ -1,8 +1,9 @@
 # Prompirit's Final Pipeline Code
 
-[Text Emotion Recognition Model](https://drive.google.com/file/d/1VElYIHTkmBXML0YasoBnzPx0I6mKLpS0/view?usp=drive_link) : pretrained model 다운받기
+**Pipeline_DEMO.ipynb : 최종 데모 코드**
 
-Pipeline_DEMO.ipynb : 최종 데모 코드
+데모코드 안 0ver2_SOTA_ED_model_comp_0.8973.pt는 아래 링크로 다운받을 수 있음.
+[Text Emotion Recognition Model](https://drive.google.com/file/d/1VElYIHTkmBXML0YasoBnzPx0I6mKLpS0/view?usp=drive_link) : pretrained model 다운받기
 
 ![pipeline](https://github.com/AnT-Prompirit/prompirit_final_code/assets/77625287/5b7cc62c-4bdd-4417-b473-af2d2c175a63)
 
