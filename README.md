@@ -1,6 +1,6 @@
 # Prompirit's Final Pipeline Code
 
-## 최종 코드 실행 방법
+## 실행 방법
 **Pipeline_DEMO.ipynb : 최종 데모 코드**
 - "example_data.csv" 파일 속 프롬프트가 Prompirit의 pipeline을 거쳐 엔지니어링되는 과정
 
